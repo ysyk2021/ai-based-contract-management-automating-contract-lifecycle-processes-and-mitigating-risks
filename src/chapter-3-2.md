@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Contract Management
-================================================================================================================
 
 Artificial intelligence (AI) is transforming the way businesses approach contract management. In this chapter, we will discuss the advantages and limitations of AI in contract management.
 

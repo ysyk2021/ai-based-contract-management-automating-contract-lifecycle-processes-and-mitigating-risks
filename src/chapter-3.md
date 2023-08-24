@@ -1,5 +1,3 @@
-Artificial Intelligence in Contract Management
-=======================================================
 
 Artificial intelligence (AI) is transforming the way businesses approach contract management. AI-based contract management solutions can automate processes, reduce manual labor costs, and improve accuracy in contract management workflows. In this chapter, we will explore the types of AI in contract management, their applications, advantages, limitations, and real-world case studies.
 

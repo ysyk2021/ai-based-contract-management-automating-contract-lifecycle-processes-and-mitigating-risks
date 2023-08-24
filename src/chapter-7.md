@@ -1,5 +1,3 @@
-Future Directions and Challenges
-=========================================
 
 As the use of artificial intelligence (AI) in contract management continues to evolve, there are both emerging trends and technologies, as well as opportunities and challenges that need to be addressed. In this chapter, we will discuss the future directions and challenges of AI-based contract management.
 

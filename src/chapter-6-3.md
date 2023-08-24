@@ -1,5 +1,3 @@
-Integration with Contract Management Processes and Tools
-=================================================================================================================
 
 Integrating AI-based contract management solutions with existing contract management processes and tools can provide significant benefits for businesses. In this chapter, we will explore how AI-based contract management solutions can be integrated with contract management processes and tools.
 

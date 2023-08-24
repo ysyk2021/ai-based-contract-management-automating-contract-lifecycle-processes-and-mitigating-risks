@@ -1,5 +1,3 @@
-Business Models and Cost-Effectiveness
-===============================================================================================
 
 The implementation of AI-based contract management solutions can have a significant impact on a business's bottom line. It is important for businesses to carefully consider their business models and the cost-effectiveness of implementing these solutions. In this chapter, we will explore the key considerations related to business models and cost-effectiveness in the implementation of AI-based contract management.
 

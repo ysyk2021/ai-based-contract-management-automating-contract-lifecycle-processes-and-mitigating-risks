@@ -1,5 +1,3 @@
-Emerging Trends and Technologies in AI-based Contract Management
-===========================================================================================================
 
 AI-based contract management solutions are rapidly evolving, with new technologies and trends emerging to address challenges related to contract management. In this chapter, we will explore the future directions and challenges of AI-based contract management, including emerging trends and technologies.
 

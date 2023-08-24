@@ -1,5 +1,3 @@
-Regulatory and Ethical Considerations
-==============================================================================================
 
 As AI-based contract management continues to gain popularity in the legal industry, it is essential to consider regulatory and ethical considerations related to its implementation. In this chapter, we will explore some of these considerations and how they can be addressed.
 

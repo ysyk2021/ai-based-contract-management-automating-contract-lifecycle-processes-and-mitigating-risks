@@ -1,5 +1,3 @@
-Data Collection and Analysis for Contract Management
-=============================================================
 
 Data collection and analysis are essential components of AI-based contract management systems. By collecting and analyzing contract data, businesses can identify patterns and trends related to contract performance, risk, and compliance. In this chapter, we will provide an overview of data collection and analysis for contract management.
 

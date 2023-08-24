@@ -1,5 +1,3 @@
-Contract Compliance and Risk Management Data
-===========================================================================================================
 
 Effective contract management requires businesses to monitor compliance with contractual obligations and mitigate risk associated with non-compliance or breaches of contract. AI-based contract management solutions can automate data collection and analysis processes related to contract compliance and risk management, enabling businesses to make data-driven decisions related to contract management. In this chapter, we will explore the key considerations related to data collection and analysis for contract compliance and risk management data.
 

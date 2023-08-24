@@ -1,5 +1,3 @@
-Contract Analytics and Visualization
-=====================================================================================================
 
 Effective contract management requires businesses to analyze large volumes of contract data and identify patterns and trends related to contract performance, risk, and compliance. AI-based contract management solutions can automate contract analytics and visualization processes, enabling legal professionals to make data-driven decisions related to contract management. In this chapter, we will explore the key considerations related to contract analytics and visualization in AI-based contract management.
 

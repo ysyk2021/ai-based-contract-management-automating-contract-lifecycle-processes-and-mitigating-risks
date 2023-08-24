@@ -1,5 +1,3 @@
-Automated Contract Review and Approval
-=======================================================================================================
 
 Automated contract review and approval is an AI-based contract management technique that involves using AI to identify potential issues with contracts and provide recommendations for improvement. In this chapter, we will provide an overview of automated contract review and approval in the context of AI-based contract management.
 

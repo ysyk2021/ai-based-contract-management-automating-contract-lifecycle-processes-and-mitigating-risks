@@ -1,5 +1,3 @@
-Chapter: Implementation of AI-Based Contract Management
-=======================================================
 
 Implementing AI-based contract management solutions requires careful planning and consideration of various factors, including regulatory and ethical considerations, integration with existing contract management processes and tools, employee education and engagement, and business models and cost-effectiveness. In this chapter, we will provide an overview of implementing AI-based contract management.
 

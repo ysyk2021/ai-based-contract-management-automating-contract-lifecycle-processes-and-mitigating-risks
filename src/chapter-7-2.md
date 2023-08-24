@@ -1,5 +1,3 @@
-Opportunities and Challenges in Scaling up AI-based Contract Management
-==================================================================================================================
 
 AI-based contract management solutions have the potential to revolutionize the way businesses approach contract management. However, there are opportunities and challenges associated with scaling up these solutions. In this chapter, we will explore the key considerations related to scaling up AI-based contract management.
 

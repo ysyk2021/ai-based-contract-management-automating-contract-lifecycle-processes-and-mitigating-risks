@@ -1,5 +1,3 @@
-Smart Contracts and Blockchain Technology
-==========================================================================================================
 
 Smart contracts and blockchain technology are two AI-based contract management techniques that have the potential to revolutionize the way businesses approach contract management. In this chapter, we will provide an overview of smart contracts and blockchain technology in the context of AI-based contract management.
 

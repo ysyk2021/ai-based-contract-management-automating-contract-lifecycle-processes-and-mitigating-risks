@@ -1,5 +1,3 @@
-Contract Execution and Performance Data
-======================================================================================================
 
 Effective contract management requires accurate and timely data collection and analysis, particularly related to contract execution and performance. AI-based contract management solutions can automate data collection and analysis processes, enabling businesses to make data-driven decisions related to contract management. In this chapter, we will explore the key considerations related to data collection and analysis for contract execution and performance.
 

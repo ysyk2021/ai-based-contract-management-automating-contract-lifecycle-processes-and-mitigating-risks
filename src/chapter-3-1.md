@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Contract Management
-=======================================================================================================================================
 
 Artificial intelligence (AI) is transforming the way businesses approach contract management. AI can be used to automate many of the tasks associated with contract lifecycle processes, such as contract creation, negotiation, execution, and performance monitoring. In this chapter, we will discuss the types of artificial intelligence and their applications in contract management.
 

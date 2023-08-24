@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Contract Management
-=============================================================================================================
 
 Artificial intelligence (AI) is transforming the way businesses approach contract management. In this chapter, we will provide case studies on the use of AI in contract management.
 

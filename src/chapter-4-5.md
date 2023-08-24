@@ -1,5 +1,3 @@
-Regulatory and Compliance Data
-=============================================================================================
 
 Effective contract management requires businesses to comply with various regulatory and compliance requirements. AI-based contract management solutions can automate data collection and analysis processes related to regulatory and compliance data, enabling businesses to make data-driven decisions related to contract management. In this chapter, we will explore the key considerations related to data collection and analysis for regulatory and compliance data.
 

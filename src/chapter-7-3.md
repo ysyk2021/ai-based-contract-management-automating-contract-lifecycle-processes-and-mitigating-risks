@@ -1,5 +1,3 @@
-Implications for the Future of Automating Contract Lifecycle Processes and Mitigating Risks
-======================================================================================================================================
 
 AI-based contract management solutions have the potential to transform the way businesses approach contract management. As these solutions continue to evolve, there are implications for the future of automating contract lifecycle processes and mitigating risks. In this chapter, we will explore the key considerations related to the future of AI-based contract management.
 

@@ -1,5 +1,3 @@
-Overview of Contract Management
-===========================================================================
 
 Contract management is the process of creating, executing, and analyzing contracts to ensure compliance with legal requirements, minimize risk, and optimize business outcomes. Effective contract management requires a comprehensive understanding of contract lifecycle processes, as well as the ability to leverage technology solutions to automate manual tasks and streamline workflows.
 

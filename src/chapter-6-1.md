@@ -1,5 +1,3 @@
-Overview of Implementing AI-Based Contract Management
-==============================================================================================================
 
 Implementing AI-based contract management solutions can be a complex process that requires careful planning and execution. In this chapter, we will provide an overview of the key steps involved in implementing AI-based contract management.
 

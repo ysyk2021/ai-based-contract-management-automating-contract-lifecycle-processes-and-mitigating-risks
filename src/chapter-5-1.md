@@ -1,5 +1,3 @@
-Overview of AI-based Contract Management Techniques and Strategies
-===================================================================================================================================
 
 AI-based contract management solutions are rapidly evolving, with new techniques and strategies emerging to optimize contract management workflows and reduce risk associated with non-compliance or breaches of contract. In this chapter, we will provide an overview of AI-based contract management techniques and strategies.
 
