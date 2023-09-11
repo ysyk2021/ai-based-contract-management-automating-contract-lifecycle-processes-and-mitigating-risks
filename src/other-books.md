@@ -1,14 +1,14 @@
 
 Want get more our free books? click here: [https://zhengpublishing.com/subscribe/](https://zhengpublishing.com/subscribe/)
 
-- [Leading with Purpose and Passion: Inspiring Others to Reach for the Stars](https://zhengpublishing.com/leading-with-purpose-and-passion-inspiring-others-to-reach-for-the-stars/)
-- [The Microlearning Approach to Team Building: Fostering Collaboration and Cohesion Among Employees](https://zhengpublishing.com/the-microlearning-approach-to-team-building-fostering-collaboration-and-cohesion-among-employees/)
+- [Mastering The Art Of Feedback: Giving And Receiving Constructive Feedback In The Workplace](https://zhengpublishing.com/mastering-the-art-of-feedback-giving-and-receiving-constructive-feedback-in-the-workplace/)
+- [How to Foster Resilience in Times of Change and Uncertainty in the Workplace](https://zhengpublishing.com/how-to-foster-resilience-in-times-of-change-and-uncertainty-in-the-workplace/)
+- [The Power of Forgiveness: Letting Go of Resentment and Moving Forward with Compassion](https://zhengpublishing.com/the-power-of-forgiveness-letting-go-of-resentment-and-moving-forward-with-compassion/)
+- [AI for Social Media Writing: Techniques and Strategies for More Engaging and Effective Social Media Posts with Technology](https://zhengpublishing.com/ai-for-social-media-writing-techniques-and-strategies-for-more-engaging-and-effective-social-media-posts-with-technology/)
+- [AI for Emotional Intelligence: Developing EQ with Artificial Intelligence](https://zhengpublishing.com/ai-for-emotional-intelligence-developing-eq-with-artificial-intelligence/)
+- [How to Build a Diverse and Inclusive Workplace and Improve Productivity](https://zhengpublishing.com/how-to-build-a-diverse-and-inclusive-workplace-and-improve-productivity/)
+- [Using AI to Cultivate Mindfulness: Techniques and Exercises for Inner Peace and Calm](https://zhengpublishing.com/using-ai-to-cultivate-mindfulness-techniques-and-exercises-for-inner-peace-and-calm/)
+- [The Lean Entrepreneur: How to Focus on What Matters, Build a Product That Works](https://zhengpublishing.com/the-lean-entrepreneur-how-to-focus-on-what-matters-build-a-product-that-works/)
 - [The Art Of Managing Up: Navigating Relationships With Superiors For Career Success](https://zhengpublishing.com/the-art-of-managing-up-navigating-relationships-with-superiors-for-career-success/)
-- [Utilizing AI for Personal Enrichment: Techniques and Strategies for Fulfillment and Achievement with Technology](https://zhengpublishing.com/utilizing-ai-for-personal-enrichment-techniques-and-strategies-for-fulfillment-and-achievement-with-technology/)
-- [How to Manage Workplace Stress and Cultivate Resilience for Health and Well-Being](https://zhengpublishing.com/how-to-manage-workplace-stress-and-cultivate-resilience-for-health-and-well-being/)
-- [The Benefits of AI for the Legal Industry: Enabling Access to Justice](https://zhengpublishing.com/the-benefits-of-ai-for-the-legal-industry-enabling-access-to-justice/)
-- [Creating A Culture Of Inclusion In The Workplace: How To Embrace Diversity And Build Stronger Teams](https://zhengpublishing.com/creating-a-culture-of-inclusion-in-the-workplace-how-to-embrace-diversity-and-build-stronger-teams/)
-- [Revolutionizing Office Work with AI: Strategies for Streamlining Operations and Enhancing Productivity](https://zhengpublishing.com/revolutionizing-office-work-with-ai-strategies-for-streamlining-operations-and-enhancing-productivity/)
-- [Using AI for Small Business Forecasting: Techniques and Strategies for More Accurate Predictions](https://zhengpublishing.com/using-ai-for-small-business-forecasting-techniques-and-strategies-for-more-accurate-predictions/)
-- [The Power of Patience: How Lifelong Learning Fosters Perseverance](https://zhengpublishing.com/the-power-of-patience-how-lifelong-learning-fosters-perseverance/)
+- [ChatGPT and Manufacturing: Improving Quality Control and Production Efficiency](https://zhengpublishing.com/chatgpt-and-manufacturing-improving-quality-control-and-production-efficiency/)
 
