@@ -1,5 +1,4 @@
-Chapter: Implications for the Future of Automating Contract Lifecycle Processes and Mitigating Risks
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
